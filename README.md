@@ -1,0 +1,2 @@
+# Detecting-Workplace-Burnout-from-Glassdoor-Reviews-Using-NLP-and-Machine-Learning.
+Review Analytics &amp; NLP Project applies Natural Language Processing and machine learning to analyze large-scale textual reviews. Using raw data (all_reviews) and a cleaned dataset (cleaned_reviews_final), the project performs text preprocessing, feature engineering, and analytical modeling to extract meaningful insights.
